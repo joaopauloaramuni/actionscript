@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	import flash.events.Event;	public class Square extends MovieClip {		public function Square() {			this.addEventListener(Event.ENTER_FRAME, onLoop,								  false, 0, true);		}		private function onLoop(evt:Event):void {			this.x += 5;		}	}}

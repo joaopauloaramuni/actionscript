@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;	import flash.events.*;	import flash.utils.getTimer;		public class InimigoVerde extends Inimigo {				public function InimigoVerde(vI:Number) {			velocidadeInimigo = vI		}		public function teste() {		trace("teste")		}	}	}

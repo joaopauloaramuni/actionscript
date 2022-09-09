@@ -1,0 +1,9 @@
+<LoadingData>
+	<question>
+		<text>This is a test</text>
+		<answers>
+			<answer type="correct">Correct answer</answer>
+			<answer type="wrong">Incorrect answer</answer>
+		</answers>
+	</question>
+</LoadingData>

@@ -1,0 +1,16 @@
+<Exercicios>
+	<questao>
+		<enunciado>Qual é a cor do cavalo branco de Napoleão?</enunciado>
+		<respostas>
+			<resposta tipo="correta">Branca</resposta>
+			<resposta tipo="errada">Vermelha</resposta>
+		</respostas>
+	</questao>
+	<questao>
+		<enunciado>Qual é a cor do cavalo preto de Napoleão?</enunciado>
+		<respostas>
+			<resposta tipo="correta">Preta</resposta>
+			<resposta tipo="errada">Rosa</resposta>
+		</respostas>
+	</questao>
+</Exercicios>
