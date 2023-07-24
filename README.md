@@ -1,2 +1,2 @@
-# actionscript
-Repo actionscript
+# ActionScript
+Repo ActionScript
