@@ -1,0 +1,1 @@
+﻿package  {		public class competidor3 extends competidores{		public function competidor3(velocidade_parametro:Number) {			velocidade = velocidade_parametro;		}	}	}
