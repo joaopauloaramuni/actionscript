@@ -3,7 +3,7 @@ Repo ActionScript
 
 ## Computação Gráfica - Universidade FUMEC (2012)
 
-### Trabalho final
+### Trabalho final de Computação Gráfica do curso de Ciência da Computação
 
 [Trabalho final da disciplina de Computação Gráfica (2012)](https://github.com/joaopauloaramuni/actionscript/tree/main/PROJETOS/AI_CG_JOAO_PAULO_CARNEIRO_ARAMUNI)
 
