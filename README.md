@@ -1,7 +1,7 @@
 # ActionScript
 Repo ActionScript
 
-## Computação Gráfica - Universidade Fumec (2012)
+## Computação Gráfica - Universidade FUMEC (2012)
 
 ### Trabalho final
 
