@@ -1,2 +1,0 @@
-# actionscript
-Repo ActionScript
