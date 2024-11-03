@@ -1,0 +1,1 @@
+﻿package  {		public class InimigoVermelho extends Inimigo {		public function InimigoVermelho(vI:Number) {			velocidadeInimigo = vI			this.scaleX = .6			this.scaleY = .6		}	}	}
