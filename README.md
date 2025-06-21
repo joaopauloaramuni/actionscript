@@ -1,4 +1,4 @@
-# ActionScript
+-----
 
 <div align="center">
     <table>
@@ -39,3 +39,6 @@
 ### Para executar o projeto: 
 
 [Download Adobe Flash Player (.zip -> .exe)](https://github.com/joaopauloaramuni/actionscript/raw/refs/heads/main/ADOBE%20FLASH%20PLAYER/flashplayer_32_sa.zip)
+
+
+-----
